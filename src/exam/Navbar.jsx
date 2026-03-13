@@ -7,7 +7,7 @@ return(
     <div className="nav-links">
         <Link to="/">Home</Link>
         <Link to="/register">Registration</Link>
-        <Link to="/users">Display Users</Link>
+        <Link to="/users">Display Employee</Link>
         <Link to="/api">API Demo</Link>
     </div>
 
